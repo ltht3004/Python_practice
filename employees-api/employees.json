@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "department": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Mary",
+    "department": "HR"
+  },
+  {
+    "id": 3,
+    "name": "Tom",
+    "department": "Finance"
+  },
+  {
+    "id": 4,
+    "name": "Alice",
+    "department": "QA"
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "department": "Marketing"
+  },
+  {
+    "id": 6,
+    "name": "Emma",
+    "department": "IT"
+  },
+  {
+    "id": 7,
+    "name": "Michael",
+    "department": "Sales"
+  },
+  {
+    "id": 8,
+    "name": "Sophia",
+    "department": "Finance"
+  }
+]
